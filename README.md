@@ -5,10 +5,9 @@ This lab involved two phishing emails to enhance threat detection skills. I gain
 
 ### Skills Learned
 
-- Experienced in documenting and communicating phishing analysis findings, ensuring that security teams and stakeholders receive clear, actionable insights to strengthen organizational security posture.
+- Experienced in documenting and communicating phishing analysis findings
 - Skilled in identifying and analyzing malicious URLs and attachments, utilizing security tools to detect phishing links, malware payloads, and exploit attempts before they compromise systems.
 - Hands-on experience in analyzing email headers, tracing sender origins, and investigating suspicious email content to determine legitimacy and detect malicious intent.
-- Proficient in conducting methodical phishing email analysis, examining key indicators such as sender behavior, message content, and embedded threats to identify fraudulent attempts.
 
 ### Tools Used
 
